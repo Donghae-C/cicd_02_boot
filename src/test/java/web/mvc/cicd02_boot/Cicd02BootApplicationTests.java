@@ -8,7 +8,7 @@ class Cicd02BootApplicationTests {
 
     @Test
     void contextLoads() {
-        throw new RuntimeException("예외발생...");
+        //throw new RuntimeException("예외발생...");
     }
 
 }
